@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+h1 {
+  color: #4f46e5;
+}
+
+.menu li {
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+  color: #111;
+}
+
+a:hover {
+  color: #4f46e5;
+  font-weight: bold;
+}
